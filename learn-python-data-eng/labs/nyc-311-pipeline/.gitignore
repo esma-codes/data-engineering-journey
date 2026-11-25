@@ -1,0 +1,16 @@
+# Raw datasets
+/data/raw/
+
+# Generated pipeline outputs
+/data/processed/
+
+# Runtime logs
+/logs/
+
+# Temporary files
+*.tmp
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
